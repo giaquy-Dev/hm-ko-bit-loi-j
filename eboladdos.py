@@ -139,13 +139,6 @@ print '                #                EBOLA HTTP  v. 1.5           #'
 print '                ###############################################'
 print '                #           USARE SU UN VPS / DEDICATO        #'
 print '                ###############################################'
-print '                #               SKYPE: OOATOMICZOO            #'
-print '                ###############################################'
-print '                #            TS3: TS3.DRCCOMMUNITY.NET        #'
-print '                ###############################################'
-print '                #          FORUM: FORUM.DRCCOMMUNITY.NET      #'
-print '                ###############################################'
-print ''
 print ''
 url = raw_input('Sito (Es http://sito.com/) : ')
 host_url = url.replace('http://', '').replace('https://', '').split('/')[0]
